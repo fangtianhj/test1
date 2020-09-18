@@ -1,22 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-09-18T08:13:04.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Jf0UbdqzkyRylGlcfJEf" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-18T08:30:06.619Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36" etag="Hu2jH3M5nUAaRLkvrI6w" version="13.7.3" type="github">
   <diagram name="Page-1" id="822b0af5-4adb-64df-f703-e8dfc1f81529">
     <mxGraphModel dx="1488" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Zt_ZK-mCpsZQQSlo8BQE-1" value="" style="shape=mxgraph.cisco.routers.10700;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Zt_ZK-mCpsZQQSlo8BQE-1" value="" style="shape=mxgraph.cisco.routers.10700;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="372" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="Zt_ZK-mCpsZQQSlo8BQE-2" value="" style="shape=mxgraph.cisco.routers.10700;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="Zt_ZK-mCpsZQQSlo8BQE-2" value="" style="shape=mxgraph.cisco.routers.10700;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="372" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="Zt_ZK-mCpsZQQSlo8BQE-3" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="Zt_ZK-mCpsZQQSlo8BQE-1" target="Zt_ZK-mCpsZQQSlo8BQE-2">
+        <mxCell id="Zt_ZK-mCpsZQQSlo8BQE-3" value="" style="endArrow=classic;html=1;" parent="1" source="Zt_ZK-mCpsZQQSlo8BQE-1" target="Zt_ZK-mCpsZQQSlo8BQE-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="470" as="sourcePoint" />
             <mxPoint x="780" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zt_ZK-mCpsZQQSlo8BQE-4" value="status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="Zt_ZK-mCpsZQQSlo8BQE-4" value="status" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#66FF66;" parent="1" vertex="1">
           <mxGeometry x="440" y="320" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
